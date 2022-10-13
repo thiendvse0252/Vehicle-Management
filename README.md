@@ -3,10 +3,10 @@
 * Java OOP
 
 A system program with MVC Model: <br>
-• applied collection (ArrayList)
-• CRUD functionalities
+• applied collection (ArrayList)<br>
+• CRUD functionalities <br>
 • read from file, write to file <br>
-• Abstraction, encapsulation, inheritance, polymophism definitions
+• Abstraction, encapsulation, inheritance, polymophism definitions <br>
 
 Description: <br>
 • My role: back-end<br>
