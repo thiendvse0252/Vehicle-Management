@@ -1,8 +1,0 @@
-1,C01,Honda,red,500.0,HCM,sport,2000
-2,C02,BMW,blue,100.0,HCM,travel,2005
-3,M01,RS,black,10.0,HN,100.0,true
-4,M02,SYM,green,20.0,HCM,100.0,false
-5,C03,Honda,red,500.0,HCM,sport,2000
-6,C04,BMW,blue,100.0,HCM,travel,2005
-7,M03,RS,black,10.0,HN,100.0,true
-8,M04,SYM,green,20.0,HCM,100.0,false
